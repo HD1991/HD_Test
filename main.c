@@ -7,3 +7,4 @@ aval
 dovom
 sevom
 charom
+panjom
