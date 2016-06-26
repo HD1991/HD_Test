@@ -6,3 +6,4 @@ main()
 aval
 dovom
 sevom
+charom
